@@ -32,6 +32,12 @@ ao servidor. Isso permite que o usuário rode toda e qualquer aplicação atrav�
               Virtual Private Servers
 O Virtual Private Servers é o servidor intermediário entre os serviços compartilhados e aqueles de dedicação exclusiva. Embora seja uma 
 mesma máquina em uso, as partições são distintas, o que evita os riscos de você ser “derrrubado” quando houver instabilidade no servidor.
+ Servidor de arquivos: fornece um ponto centralizado na rede para armazenamento e compartilhamento de arquivos entre os 
+ usuários.
+Servidor de banco de dados: é o item do aplicativo que irá concentrar todas as gravações e consultas de dados
+ em disco do projeto. 
+Servidor de e-mail: é um conjunto de máquinas, sistema operacional e MTA (mail transfer agent).
+
 
 Questão 5:O que é uma topologia de rede do tipo malha?
 Resposta5:Rede mesh ou rede de malha, é uma alternativa de protocolo ao padrão 802.11 para diretrizes de 
